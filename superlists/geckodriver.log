@@ -134,3 +134,60 @@ Read port: 53415
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1655467908862	geckodriver	INFO	Listening on 127.0.0.1:50209
+1655467909203	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50210" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d4/k23gj2v97m98_30yp3r83fb80000gn/T/rust_mozprofileLct4zY"
+2022-06-17 09:11:49.671 plugin-container[2985:45112] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-17 09:11:49.671 plugin-container[2985:45112] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-17 09:11:49.693 plugin-container[2985:45112] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-17 09:11:49.693 plugin-container[2985:45112] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-17 09:11:49.693 plugin-container[2985:45136] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-17 09:11:49.693 plugin-container[2985:45136] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1655467909703	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50210
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d4/k23gj2v97m98_30yp3r83fb80000gn/T/rust_mozprofileLct4zY/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1655467911188	Marionette	INFO	Listening on port 50224
+DevTools listening on ws://localhost:50210/devtools/browser/903c6659-995d-49af-bde5-bad76438be78
+Read port: 50224
+1655467911269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655467911348	Marionette	INFO	Stopped listening on port 50224
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655467971825	geckodriver	INFO	Listening on 127.0.0.1:50238
+1655467971832	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50239" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d4/k23gj2v97m98_30yp3r83fb80000gn/T/rust_mozprofileU8txaa"
+2022-06-17 09:12:52.108 plugin-container[3037:45867] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-17 09:12:52.108 plugin-container[3037:45867] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-17 09:12:52.111 plugin-container[3037:45867] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-17 09:12:52.111 plugin-container[3037:45867] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-17 09:12:52.112 plugin-container[3037:45865] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-17 09:12:52.112 plugin-container[3037:45865] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1655467972121	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50239
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d4/k23gj2v97m98_30yp3r83fb80000gn/T/rust_mozprofileU8txaa/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1655467973399	Marionette	INFO	Listening on port 50250
+DevTools listening on ws://localhost:50239/devtools/browser/f9d23d5e-5df6-4d7a-a8a1-981e679cc25f
+Read port: 50250
+1655467973487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655467973547	Marionette	INFO	Stopped listening on port 50250
+1655468080871	geckodriver	INFO	Listening on 127.0.0.1:50510
+1655468080878	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50511" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d4/k23gj2v97m98_30yp3r83fb80000gn/T/rust_mozprofile88EqCf"
+2022-06-17 09:14:41.245 plugin-container[3263:47521] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-17 09:14:41.246 plugin-container[3263:47521] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-17 09:14:41.250 plugin-container[3263:47521] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-17 09:14:41.250 plugin-container[3263:47521] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-17 09:14:41.250 plugin-container[3263:47526] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-17 09:14:41.250 plugin-container[3263:47526] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1655468081252	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50511
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d4/k23gj2v97m98_30yp3r83fb80000gn/T/rust_mozprofile88EqCf/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1655468082707	Marionette	INFO	Listening on port 50529
+DevTools listening on ws://localhost:50511/devtools/browser/c23428d2-bfe8-49c6-b098-ef23092577d1
+Read port: 50529
+1655468082748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655468082814	Marionette	INFO	Stopped listening on port 50529

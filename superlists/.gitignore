@@ -1,5 +1,5 @@
 db.sqlite3
-*.geckodrive.log
+geckodrive.log
 __pycache__
 *.pyc
 .DS_Store
